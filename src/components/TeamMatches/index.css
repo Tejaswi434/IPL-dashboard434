@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.main_banner {
+  width: 85%;
+  height: 20%;
+  margin-left: 100px;
+}
+.rowing {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
